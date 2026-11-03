@@ -8,11 +8,17 @@ This app lets you search for a music albums, preview their tracks or play a shor
 [Vercel Link](https://album-tracker-baysac-eta.vercel.app/): https://album-tracker-baysac-eta.vercel.app/
 
 ## Screenshots
+#### Landing Page
 ![Landing Page](image.png)
+#### Search
 ![Search](image-1.png)
+#### Play
 ![Play](image-2.png)
+#### Save to collection
 ![Play and Save to collection](image-3.png)
+#### Collection
 ![Collection](image-4.png)
+#### Recommendations
 ![Recommendations](image-5.png)
 
 ## Tech stack 
