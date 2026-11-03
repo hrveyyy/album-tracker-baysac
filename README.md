@@ -11,7 +11,7 @@ This app lets you search for a music albums, preview their tracks or play a shor
 #### Landing Page
 ![Landing Page](image.png)
 #### Search
-![Search](image-1.png)
+![Search](image-6.png)
 #### Play
 ![Play](image-2.png)
 #### Save to collection
